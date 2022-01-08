@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there welcome👋
 
 <!--
 **choiyeeun1010/choiyeeun1010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
