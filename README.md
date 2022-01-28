@@ -1,5 +1,4 @@
 ## Hi there welcome👋
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fchoiyeeun1010)](https://hits.seeyoufarm.com)                    
 <!--
 **choiyeeun1010/choiyeeun1010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
