@@ -19,6 +19,7 @@
 <img alt="Discord" src="https://img.shields.io/badge/Discord-5865F2.svg?&style=for-the-badge&logo=Discord&logoColor=white"/>
 </div></br>
 
+</br>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=choiyeeun1010&langs_count=8" />&nbsp&nbsp
   <img src="https://github-readme-stats.vercel.app/api?username=choiyeeun1010" />
