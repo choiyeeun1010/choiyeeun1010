@@ -19,4 +19,11 @@
 <img alt="Discord" src="https://img.shields.io/badge/Discord-5865F2.svg?&style=for-the-badge&logo=Discord&logoColor=white"/>
 </div></br>
 
-[![github stats](https://github-readme-stats.vercel.app/api?username=choiyeeun1010&show_icons=true&hide_border=true)](https://github.com/choiyeeun1010) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=choiyeeun1010&layout=compact)](https://github.com/choiyeeun1010)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=choiyeeun1010&langs_count=8" />&nbsp&nbsp
+  <img src="https://github-readme-stats.vercel.app/api?username=choiyeeun1010" />
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer" align="center"/>
+</div>
