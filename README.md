@@ -1,7 +1,5 @@
 <h1 align="center">Hi there welcome👋</h1>
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Yeeun%20Choi&fontSize=90)
-
 <h2 align="center">Tech Stack</h2>
 <div align="center">
   <img alt="Spring boot" src="https://img.shields.io/badge/SpringBoot-6DB33F.svg?&style=for-the-badge&logo=SpringBoot&logoColor=white"/>
