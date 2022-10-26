@@ -24,7 +24,3 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=choiyeeun1010&langs_count=8" />&nbsp&nbsp
   <img src="https://github-readme-stats.vercel.app/api?username=choiyeeun1010" />
 </div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=footer" align="center"/>
-</div>
